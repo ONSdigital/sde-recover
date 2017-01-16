@@ -1,3 +1,5 @@
+> **DECPRECATED** Please note that this repository is no longer used and will likely be removed at some point in the future. The information in this readme may be out of date or possibly misleading and should not be relied upon.
+
 # sde-recover
 
 The sde-recover app is used within the Office National of Statistics (ONS) for manual recovery of Survey Data Exchange (SDE) Payloads.
